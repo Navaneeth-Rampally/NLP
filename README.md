@@ -10,6 +10,9 @@ Vocabulary - Unique words
 words
 
 Topics included:
-Tokenization.
-Stemming
-Lemmatization
+1. Tokenization.
+2. Stemming
+3. Lemmatization
+4. Stopwords
+5. Parts of speech(POS)
+6. Named entity recognition(NER)
