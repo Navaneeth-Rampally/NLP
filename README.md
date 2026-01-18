@@ -16,3 +16,9 @@ Topics included:
 4. Stopwords
 5. Parts of speech(POS)
 6. Named entity recognition(NER)
+7. One Hot encoding
+8. Bag of Words
+9. TF-IDF
+10. Word Embeddings
+11. Word2vec ---> CBow, Skipgram
+12. Avg word2vec
